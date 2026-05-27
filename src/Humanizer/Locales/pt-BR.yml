@@ -235,7 +235,7 @@ surfaces:
       day:
         symbol: 'd'
       week:
-        symbol: 'sem'
+        symbol: 'semana'
       month:
         symbol: 'm'
       year:
